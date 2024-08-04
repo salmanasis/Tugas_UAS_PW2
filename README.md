@@ -3,6 +3,7 @@ Salman Asis Parohi (220401010011)
 Muhammad Sholehuddin Aziz (220401010027)
 
 Kelas : IT-403
+Mata Kuliah : Pemrograman Web 2
 
 Disclaimer :
 Kami jujur mengcopy dari github pak, mohon maaf jika plek ketiplek karena kami basicnya bukan IT pak (mekanik sama produksi manufaktur), tapi kami sudah pelajari dari source code dan kami juga coba pastikan fungsi-fungsinya berhasil.
